@@ -1,0 +1,28 @@
+/*Tintas Coral*/
+body{background-color: PaleGoldenrod;}
+p{text-align: justify}
+h1{text-align: center; background-color: LightSalmon;}
+h3{background-color: NavajoWhite;}
+.h2{background-color: DarkTurquoise; text-align: center;}
+
+/*equipe*/
+.img_equipe{text-align: center; color: #000; font-weight:bold}
+.center{text-align: center}
+
+/*formulário*/
+.black{background-color: black}
+
+/*post*/
+.data{background-color: #4682B4; text-align: center; color: #fff;}
+.dia{font-size: 50px;}
+.titulo{font-size: 50px; font-weight: bold; color: #000000; padding:12px;}
+.escrito{font-size: 20px; color: #fff;}
+.img{text-align: center; padding: 20px;}
+.textocont{padding: 10px; text-size: 15px; text-align: justify;}
+
+/*rodapé*/
+.rodapé{background-color: #000;}
+.gold{color: Gold;}
+
+/*login*/
+.borda_iden{border: solid 5px black; border-radius: 5px;}
